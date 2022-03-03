@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](http://antzuhl.cn:4000/get/@YumCity.readme)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&theme=dracula&locale=cn&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 
 
