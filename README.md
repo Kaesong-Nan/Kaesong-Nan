@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@YumCity.readme)
 
 ![info](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YumCity)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
