@@ -1,5 +1,3 @@
-### Hi there 👋
-![描述](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <!--
 **YumCity/YumCity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=YumCity.readme)
 
-![](http://antzuhl.cn:4000/get/@YumCity.readme)
+
+
+
+### Hi,I'm SouthCity,YumCity is the name of our team! 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
+
+## Follow Me
+![描述](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+![hhh](https://antzuhl.cn:4000/get/@YumCity.readme)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&locale=cn&bg_color=ffffff,)
 
