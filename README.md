@@ -16,18 +16,25 @@ Here are some ideas to get you started:
 
 
 
-### Hi,I'm SouthCity,YumCity is the name of our team! 👋
+# Hi  ##I'm SouthCity,YumCity is the name of our team! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+    - Play games, especially LOL mobile games
 
 ## Follow Me
-![描述](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![访问个人主页数量](https://komarev.com/ghpvc/?username=YumCity&color=green)
+![](https://antzuhl.cn:4000/get/@YumCity.readme)
 
-![hhh](https://antzuhl.cn:4000/get/@YumCity.readme)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&locale=cn&bg_color=ffffff,)
-
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=YumCity&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
