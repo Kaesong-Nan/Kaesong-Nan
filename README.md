@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi  ##I'm SouthCity,YumCity is the name of our team! 👋
+# Hi  ##I'm Kaesong-Nan,YumCity is the name of our team! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kaesong-Nan&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
