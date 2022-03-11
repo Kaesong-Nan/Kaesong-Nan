@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Kaesong-Nan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![电脑](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![linux](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+,YumCity is the name of our team
 -->
 
 
 
-# Hi  ##I'm Kaesong-Nan,YumCity is the name of our team! 👋
+# Hi,I'm Kaesong-Nan! 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kaesong-Nan&show_icons=true&theme=dark" alt="logo" height="160" align="right" width="50%" />
 
